@@ -1,0 +1,610 @@
+﻿.ax_default {
+  font-family:'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:1px;
+  text-transform:none;
+}
+.title {
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.847058823529412);
+  text-align:left;
+  line-height:24px;
+}
+.title_box {
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.847058823529412);
+  text-align:left;
+  line-height:24px;
+}
+.title_without_padding {
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.847058823529412);
+  text-align:left;
+  line-height:24px;
+}
+.background {
+  font-size:28px;
+}
+.shape {
+}
+.table_cell {
+  font-family:'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.image {
+}
+.el-button {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+  line-height:normal;
+}
+.el-link {
+  font-family:'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:left;
+}
+.el-button-primary {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
+.el-button-primary-plain {
+  font-family:'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:center;
+  line-height:15px;
+}
+.el-button-m {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+  line-height:15px;
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.heading_1 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:left;
+  line-height:normal;
+}
+.heading_2 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+  line-height:normal;
+}
+.heading_3 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+  line-height:normal;
+}
+.heading_4 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.paragraph {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+.paragraph1 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.847058823529412);
+  text-align:left;
+  line-height:22px;
+}
+._主标题 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:left;
+  line-height:normal;
+}
+._标题 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+  line-height:normal;
+}
+._小标题 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+  line-height:normal;
+}
+._正文 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:normal;
+}
+._正文（小） {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-align:left;
+  line-height:normal;
+}
+._辅助文字 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+  line-height:normal;
+}
+.droplist {
+  font-size:14px;
+  color:#666666;
+  text-align:left;
+}
+.checkbox {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+.radio_button {
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+.radio_button1 {
+  font-size:14px;
+  color:#5A5A5A;
+  text-align:left;
+  line-height:normal;
+}
+.tree_node {
+  text-align:left;
+}
+.table_cell1 {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  line-height:20px;
+}
+.menu_item {
+}
+.line {
+}
+.connector {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.flow_shape {
+}
+.paragraph2 {
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.647058823529412);
+  text-align:left;
+  line-height:normal;
+}
+.line1 {
+}
+.heading_21 {
+  font-family:'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.horizontal_line {
+}
+.shape1 {
+}
+.box_1 {
+  font-size:14px;
+  line-height:20px;
+}
+.box_2 {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#303133;
+  text-align:left;
+  line-height:normal;
+}
+.h14-black {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:left;
+}
+.sub-menu-item {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.647058823529412);
+  text-align:left;
+  line-height:22px;
+}
+.box_3 {
+}
+.gray_background {
+}
+.dialog_background {
+}
+.ellipse {
+}
+.image1 {
+  color:#000000;
+}
+.vertical_line {
+}
+.iconfont {
+  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.icon {
+}
+.table_cell2 {
+}
+.box_11 {
+}
+.shape2 {
+  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-align:center;
+}
+.label1 {
+  font-family:'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.radio-check {
+}
+.radio-uncheck {
+  color:#333333;
+}
+.radio-label-check {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:left;
+}
+.radio-label-uncheck {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#6B6B6B;
+  text-align:left;
+}
+.checkbox-check {
+}
+.checkbox-label-check {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:left;
+}
+.checkbox-uncheck {
+}
+.checkbox-label-uncheck {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.input-placeholder {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#C0C4CC;
+  text-align:left;
+}
+.inputed {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.input-textarea {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#C0C4CC;
+  text-align:left;
+}
+.tag {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:center;
+}
+.tag-success {
+  font-family:'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#67C23A;
+  text-align:center;
+}
+.tag-warning {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#E6A23C;
+  text-align:center;
+}
+.tag-info {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+}
+.tag-danger {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#F56C6C;
+  text-align:center;
+}
+.badge {
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.el-shadow {
+}
+.fack_tablecell {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  text-align:center;
+  line-height:normal;
+}
+.repeater_table_cell {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  line-height:20px;
+}
+.table_cell_header {
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  line-height:20px;
+}
+.form-name {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.847058823529412);
+  text-align:right;
+  line-height:20px;
+}
+.table_cell_normal {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  line-height:normal;
+}
+.form-right {
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+.tabs {
+  font-family:'Microsoft YaHei Bold', 'Microsoft YaHei Regular', 'Microsoft YaHei', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  line-height:normal;
+}
+.new_style {
+}
+.title_dialog {
+  font-family:'Microsoft YaHei Bold', 'Microsoft YaHei Regular', 'Microsoft YaHei', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+  line-height:54px;
+}
+.dialog-close {
+  font-family:'Microsoft YaHei Bold', 'Microsoft YaHei Regular', 'Microsoft YaHei', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:54px;
+}
+.secondary_text {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.447058823529412);
+  text-align:left;
+  line-height:20px;
+}
+.breadcrum {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.447058823529412);
+  text-align:left;
+  line-height:normal;
+}
+.button_secondary {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.647058823529412);
+  text-align:left;
+  line-height:22px;
+}
+.button_primary {
+  font-family:'Microsoft YaHei', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:22px;
+}
+.bg-shadow-2-down {
+  font-size:14px;
+  line-height:20px;
+}
+.bg-shadow-1-down {
+  font-size:14px;
+  line-height:20px;
+}
+.bg-shadow-3-down {
+  font-size:14px;
+  line-height:20px;
+}
+.button-selected {
+  color:#409EFF;
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+textarea, select, input, button { outline: none; }
